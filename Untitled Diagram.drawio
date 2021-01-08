@@ -1,1 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T06:38:16.879Z" agent="5.0 (Macintosh)" version="14.1.8" etag="eihClAWyLKJpM8FONCHD" type="github"><diagram id="RszOXISDdHmtw6IOIue5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-08T06:45:20.187Z" agent="5.0 (Macintosh)" etag="JkDwCO-pk-wTcUrqmgGy" version="14.1.8" type="github">
+  <diagram id="RszOXISDdHmtw6IOIue5" name="Page-1">
+    <mxGraphModel dx="946" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-1" value="小程序注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="50" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;pointerEvents=1;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="48" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-3" value="个人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118" y="5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-4" value="企业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT7vle9MAwXnZ9zrjEU5-6" target="aT7vle9MAwXnZ9zrjEU5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-6" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;pointerEvents=1;rotation=180;" vertex="1" parent="1">
+          <mxGeometry x="198" y="20" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-7" value="填写手机号码，身份信息，营业执照等信息，阅读注册须知并同意" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="37.5" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="aT7vle9MAwXnZ9zrjEU5-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="70" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="420" y="70" />
+              <mxPoint x="420" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aT7vle9MAwXnZ9zrjEU5-10" target="aT7vle9MAwXnZ9zrjEU5-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-11" value="审核不通过" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="515" y="-2.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-12" value="审核通过" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="525" y="101" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-13" value="编辑重新提交审核" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-2.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.85;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aT7vle9MAwXnZ9zrjEU5-15" target="aT7vle9MAwXnZ9zrjEU5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-15" value="发送邮件将相关资料发送到财务人员，财务增加供应商信息。车队人员将sunlike传输过来的供应商V-XXXX与openid关联。这样微信用户就可以做登录关联。" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="580" y="67.5" width="155" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-16" value="&lt;div&gt;个人或企业用户就可以登录查看待配载的公共货物或者指定该供应商的货物。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aT7vle9MAwXnZ9zrjEU5-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aT7vle9MAwXnZ9zrjEU5-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-19" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;pointerEvents=1;fillColor=none;gradientColor=#ffffff;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-20" value="后续扩展获取工号，车队人员也可以使用小程序配载功能。路线规划取消？那就没法自动计算运价？" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="aT7vle9MAwXnZ9zrjEU5-22" target="aT7vle9MAwXnZ9zrjEU5-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-22" value="&lt;div align=&quot;left&quot;&gt;1：车队调度根据货物填写运价，分派到指定供应商或者公共货源。供应商进行抢单配载。&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2：个人配载自己的车辆；企业维护企业多个车辆，增加邀请按钮&amp;nbsp; 获取邀请人手机号码和openid维护企业供应商上，企业供应商维护了多个微信openid。然后进入登录页面&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-23" value="利星行内部员工" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="615" y="181" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-24" value="外包微信用户" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="620" y="270" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aT7vle9MAwXnZ9zrjEU5-26" target="aT7vle9MAwXnZ9zrjEU5-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-26" value="配载，发车，装货，卸货。" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="158" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-27" value="&lt;div&gt;企业用户可以生成二维码，企业运输用户可以扫码直接进行配载运输。&lt;/div&gt;&lt;div&gt;问题：邀请进入小程序只是固定，无法带货物信息和权限登录相关信息。&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=1;fillColor=none;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-28" value="&lt;p style=&quot;line-height: 100%&quot; align=&quot;left&quot;&gt;&lt;/p&gt;&lt;div align=&quot;left&quot;&gt;1：配载时候生成相应的验证密码发生到收货人手机上。&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2：卸货动作之前需要收货人提供验证密码+日结用户需要已付款，末付款用户显示收款二维码。&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p align=&quot;left&quot;&gt;&lt;/p&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=1;fillColor=none;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aT7vle9MAwXnZ9zrjEU5-29" value="&lt;div&gt;车队人员结算。&lt;/div&gt;&lt;div&gt;1：现结，需要利星行付费给用户的，根据openid企业支付给微信个人？&lt;/div&gt;&lt;div&gt;2：月结，客户生成外包对账单推送给财务。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="122" y="400" width="192" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
